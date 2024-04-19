@@ -16,13 +16,15 @@ QR code will show up (scan using camera for IOS and using expo go for android)
 
 
 Servers
+
 Install python 3 before hand - https://www.python.org/downloads/
-cd backend - Enter servers folder
+
+cd backend  
 python main.py
 
 Ensure you get the following
 
-PS C:\Users\jadejaan\Downloads\MentalHealth\MentalHealth\Backend> python main.py
+python main.py
  * Serving Flask app 'main'
  * Debug mode: off
 WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
