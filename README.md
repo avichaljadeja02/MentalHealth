@@ -1,4 +1,5 @@
 # MentalHealth
+MAKE SURE YOUR PHONE AND LAPTOP ARE ON THE SAME INTERENT CONNECTION
 
 You will have to be administrator on your device before anything
 
